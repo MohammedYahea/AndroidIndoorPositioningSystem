@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_ed7242f22d6229d83465e491fa36c28bf8bb8ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_03f260d8be8fafd677ff34a2187a451eb0ecb7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_8f4ef56c24827c685f698466153396cafcef6788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_24feeb22fb221d3a853c09cfc2a7b77cfdc35b28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb3de5a9a0c564348137ccf231caf0f3ec8870bc">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe31d84136aec17085b8cc0cacc60b3e351aea9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8032bd0d72e457b2899fe572f010c20d9cbe3aba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c0d5d4b133f1fd4bd051c3670259e117e30781c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_a85ad92cdb25711def37906e218c34b8c1fc852f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_868c062ac71f96b5333b938ee482299aed2b4c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_ccb5a00b6dcb1c5d04ad9c21d6061cbab971144f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_10891af3b68da4b248ec3e96b6505537065526b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_645554bad06a5d1e85dbb93ce36b7a2b44acebb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_9c6a0aa0f39b7b453063310134de6cc3bfd51ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.2.6_e98275562426b0c1bdf7bc03df7110ad0ae2c00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e60253a953f504d280ed20c7f8246641c33f4bf4">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d7d41399cc1ff7513921a0a58c6d7e70a81b4a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_b967bdcfb2c85719827d9f1ef72da6d3389f93ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\Android programming\The course\LocateMe\LocateMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9a09d9bdb838a02a045d0cc0f3fc67b6c1511fd9\classes.dex" />
+    </item>
+
+</items>

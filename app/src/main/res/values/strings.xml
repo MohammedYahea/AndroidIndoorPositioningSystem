@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Locate Me</string>
+    <string-array name="floors">
+        <item>CDB GF </item>
+        <item>CDB 1st Floor</item>
+        <item>CDB 2nd Floor</item>
+        <item>CDB 3th Floor </item>
+        <item>CDB 4th Floor</item>
+        <item>CDB 5th Floor </item>
+        <item>FET GF </item>
+        <item>FET 1st Floor</item>
+        <item>FET 2nd Floor</item>
+        <item>FET 3th Floor </item>
+        <item>FET 4th Floor</item>
+    </string-array>
+</resources>
